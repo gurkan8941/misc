@@ -10,6 +10,8 @@ namespace SampleConsoleApplication
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Make a change to the code...");
+            Console.ReadLine();
         }
     }
 }
