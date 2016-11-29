@@ -12,6 +12,7 @@ namespace SampleConsoleApplication
         {
             Console.WriteLine("Make a change to the code...");
             Console.ReadLine();
+            Console.WriteLine("Branch change...");
         }
     }
 }
